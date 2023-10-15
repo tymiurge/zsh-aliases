@@ -1,0 +1,1 @@
+alias cddev="cd ~/dev"
